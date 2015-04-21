@@ -1,0 +1,2 @@
+# tips
+save configuration
