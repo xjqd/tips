@@ -1,0 +1,8 @@
+1203  git config -local -l
+1204  git config --local -l
+1205  git config --system -l
+git config --global core.editor vi
+git clone http://github.com/sjl/gundo.vim.git ~/.vim/bundle/gundo
+git clone https://github.com/vim/vim.git
+
+
